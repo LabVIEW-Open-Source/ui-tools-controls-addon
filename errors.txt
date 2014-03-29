@@ -1,0 +1,16 @@
+[0]
+Short="No error"
+Long=""
+Critical=FALSE
+[7000]
+Short="No template styles installed"
+Long="There are no style templates found. This application will terminate. Verify your LabVIEW data folder and install templates. (<lvdata>\LAVA\Control Templates)"
+Critical=TRUE
+[7001]
+Short="No icon selected"
+Long="There are no icons selected. This application will terminate. Use the normal LabVIEW 'Customize Control' to create generic controls without any icons."
+Critical=TRUE
+[7002]
+Short="Can't delete temp control"
+Long="The temporary control cannot be deleted. If desired, delete 'temp_control.ctl' manually in the labview temp folder."
+Critical=FALSE
