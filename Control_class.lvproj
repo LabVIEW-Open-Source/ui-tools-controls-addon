@@ -115,6 +115,7 @@
 		</Item>
 		<Item Name="Control.lvclass" Type="LVClass" URL="../Control.lvclass"/>
 		<Item Name="IDCloneResMgr.lvlib" Type="Library" URL="../_ResManager_v86/IDCloneResMgr.lvlib"/>
+		<Item Name="compare ctls.vi" Type="VI" URL="../ctl_class/compare ctls.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="To Proper Case (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/To Proper Case (String)__ogtk.vi"/>
